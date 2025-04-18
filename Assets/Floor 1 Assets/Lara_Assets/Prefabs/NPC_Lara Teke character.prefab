@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3164408455589897728}
   - component: {fileID: 3872428289827228525}
   m_Layer: 0
-  m_Name: NPC_Lara character
+  m_Name: NPC_Lara Teke character
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
